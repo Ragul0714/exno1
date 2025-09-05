@@ -48,6 +48,7 @@ df.isnull()
 df.isnull().sum()
 ```
 <img width="172" height="557" alt="image" src="https://github.com/user-attachments/assets/be3221c3-0b7e-4bd3-ba5d-1de92e0cd2cf" />
+
 ```
 df.isnull().any()
 ```
