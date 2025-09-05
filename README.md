@@ -74,6 +74,7 @@ df.fillna(method = 'ffill')
 df.fillna(method = 'bfill')
 ```
 <img width="1010" height="842" alt="image" src="https://github.com/user-attachments/assets/c19302cd-1e2d-40d2-b7da-14cc788d7a9e" />
+
 ```
 df.fillna({'GENDER': 'MALE','NAME':'RAM','TOTAL':602.5,'AVG':108.057777})
 ```
